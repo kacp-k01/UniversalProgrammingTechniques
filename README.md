@@ -1,0 +1,2 @@
+# UniversalProgrammingTechniques
+Various exercises from universal programming techniques
