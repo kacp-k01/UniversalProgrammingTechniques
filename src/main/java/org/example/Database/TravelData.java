@@ -31,6 +31,10 @@ public class TravelData {
     String placeName;
     String cName;
 
+    public TravelData(File dataDir){
+        this.dataDir=dataDir;
+    }
+
     public List<String> getOffersDescriptionsList(String locale) {
 
         String[] locArr = locale.split("_");
