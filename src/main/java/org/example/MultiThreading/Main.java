@@ -1,4 +1,4 @@
-package org.example.Threads;
+package org.example.MultiThreading;
 
 
 public class Main {

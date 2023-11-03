@@ -1,4 +1,4 @@
-package org.example.Threads;
+package org.example.MultiThreading;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
